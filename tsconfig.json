@@ -12,6 +12,18 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "paths": {
+      "@deewision/box-bar": [
+        "./dist/deewision/box-bar"
+      ],
+      "@dewision/box-bar": [
+        "./dist/dewision/box-bar"
+      ],
+      "@ngx/widgets": [
+        "./dist/ngx/widgets"
+      ],
+      "@ngxw/widgets": [
+        "./dist/ngxw/widgets"
+      ],
       "box-bar": [
         "./dist/box-bar"
       ]

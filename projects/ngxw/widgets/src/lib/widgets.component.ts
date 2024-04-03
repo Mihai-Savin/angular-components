@@ -1,16 +1,16 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-box-bar',
+  selector: 'lib-widgets',
   standalone: true,
   imports: [],
   template: `
     <p>
-      box-bar really works!
+      widgets works!
     </p>
   `,
   styles: ``
 })
-export class BoxBarComponent {
+export class WidgetsComponent {
 
 }

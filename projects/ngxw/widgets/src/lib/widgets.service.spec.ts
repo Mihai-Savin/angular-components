@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { BoxBarService } from './box-bar.service';
+import { WidgetsService } from './widgets.service';
 
-describe('BoxBarService', () => {
-  let service: BoxBarService;
+describe('WidgetsService', () => {
+  let service: WidgetsService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(BoxBarService);
+    service = TestBed.inject(WidgetsService);
   });
 
   it('should be created', () => {
